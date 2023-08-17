@@ -1388,12 +1388,7 @@ a {
   }
 }
 .cid-tJS8BQovyt .item-wrapper {
-  height: 400px;
   position: relative;
-}
-.cid-tJS8BQovyt .item-wrapper img {
-  height: 100%;
-  object-fit: cover;
 }
 .cid-tJS8BQovyt .item-wrapper .icon-wrapper {
   pointer-events: none;
